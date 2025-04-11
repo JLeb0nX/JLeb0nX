@@ -4,9 +4,8 @@
 ---
 
 💻 Je suis actuellement en 2ᵉ année de BUT Réseaux & Télécoms, spécialité **Cybersécurité** à l'IUT de La Réunion.  
-🔐 Mon domaine de prédilection : l’**offensive security**, les **challenges CTF** et le **pentesting**.  
-🚀 Je développe aussi un portfolio interactif en **React** sur le thème de la cybersécurité.  
-🎯 Objectif : devenir un expert en **cybersécurité** et contribuer à des projets innovants autour de l’**IA et la sécu**.
+🔐 Mon domaine de prédilection : Le réseau et la sécurité  
+🚀 Je développe aussi un portfolio interactif en **React**, et bien d'autres projets 
 
 ---
 
@@ -14,17 +13,9 @@
 
 - 🖥️ Réseaux : Cisco, OSPF, VLAN, Wireshark, SD-WAN  
 - 🔒 Cybersécurité : Metasploit, Hashcat, LLMNR, reverse shell, enumeration, escalation  
-- 🧪 Dev : Bash, Python, HTML/CSS, React.js  
+- 🧪 Dev : Bash, Python, HTML/CSS, React.js, NodeJs et bien d'autres  
 - 📦 Systèmes : Kali Linux, Debian, Windows Server, Active Directory  
-- 🌐 Outils : Git, GitHub, Netcat, VS Code, MATLAB
-
----
-
-### 🚧 Projets en cours
-
-- 🎯 **AI-CTF-Bot** : Une IA pour résoudre des challenges CTF
-- 🌐 **johan-lebon.re** : Mon portfolio hébergé via GitHub Pages
-- 🛰️ **QPSK Transceiver** : Transmission de trame via ADALM-PLUTO en MATLAB
+- 🌐 Outils : Git, GitHub, Netcat, VS Code, MATLAB, WebStorm
 
 ---
 
