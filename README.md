@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Johan Lebon</h1>
-<h3 align="center">Étudiant en cybersécurité & réseaux • Passionné par l’IA, les CTF et le dev web</h3>
+<h3 align="center">Étudiant en BUT Réseaux et Télécommunications, Spécialité Cybersécurité</h3>
 
 ---
 
@@ -13,9 +13,9 @@
 
 - 🖥️ Réseaux : Cisco, OSPF, VLAN, Wireshark, SD-WAN  
 - 🔒 Cybersécurité : Metasploit, Hashcat, LLMNR, reverse shell, enumeration, escalation  
-- 🧪 Dev : Bash, Python, HTML/CSS, React.js, NodeJs et bien d'autres  
+- 🧪 Dev : HTML/CSS, React.js et bien d'autres  
 - 📦 Systèmes : Kali Linux, Debian, Windows Server, Active Directory  
-- 🌐 Outils : Git, GitHub, Netcat, VS Code, MATLAB, WebStorm
+- 🌐 Outils : Git, GitHub, Netcat, VS Code, WebStorm
 
 ---
 
